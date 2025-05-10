@@ -1,0 +1,245 @@
+{
+    "appliances": [
+      {
+        "type": "Dehumidifiers",
+        "api_id": "mgiu-hu4z"
+      },
+      {
+        "type": "Residential Clothes Dryers",
+        "api_id": "t9u7-4d2j"
+      },
+      {
+        "type": "Residential Clothes Washers",
+        "api_id": "bghd-e2wd"
+      },
+      {
+        "type": "Residential Combination All-in-One Washer-Dryers",
+        "api_id": "9jai-gs6t.json"
+      },
+      {
+        "type": "Residential Dishwashers",
+        "api_id": "q8py-6w3f"
+      },
+      {
+        "type": "Residential Electric Cooking Products",
+        "api_id": "m6gi-ng33"
+      },
+      {
+        "type": "Residential Freezers",
+        "api_id": "8t9c-g3tn"
+      },
+      {
+        "type": "Residential Refrigerators",
+        "api_id": "p5st-her9"
+      },
+      {
+        "type": "Room Air Cleaners",
+        "api_id": "jmck-i55n"
+      }
+    ],
+    "building_products": [
+      {
+        "type": "Insulation",
+        "api_id": "kphf-22jd"
+      },
+      {
+        "type": "Storm Windows",
+        "api_id": "qaxz-ikcb"
+      }
+    ],
+    "commercial_appliances": [
+      {
+        "type": "Commercial Clothes Washers",
+        "api_id": "9g6r-cpdt"
+      }
+    ],
+    "commercial_food_service_equipment": [
+      {
+        "type": "Commercial Coffee Brewers",
+        "api_id": "6xa2-5c2t"
+      },
+      {
+        "type": "Commercial Dishwashers",
+        "api_id": "pk8q-dim8"
+      },
+      {
+        "type": "Commercial Electric Cooktops",
+        "api_id": "nt9t-yxu3"
+      },
+      {
+        "type": "Commercial Fryers",
+        "api_id": "edi8-b5vk"
+      },
+      {
+        "type": "Commercial Griddles",
+        "api_id": "nw5s-r5ca"
+      },
+      {
+        "type": "Commercial Hot Food Holding Cabinets",
+        "api_id": "wyw6-sr4d"
+      },
+      {
+        "type": "Commercial Ice Machines",
+        "api_id": "nak5-fsjf"
+      },
+      {
+        "type": "Commercial Ovens",
+        "api_id": "c8av-ccf7"
+      },
+      {
+        "type": "Commercial Refrigerators and Freezers",
+        "api_id": "wati-2tfp"
+      },
+      {
+        "type": "Commercial Steam Cookers",
+        "api_id": "vtsv-aq9u"
+      }
+    ],
+    "data_center_equipment": [
+      {
+        "type": "Data Center Storage Block IO",
+        "api_id": "3uec-2gqf"
+      },
+      {
+        "type": "Data Center Storage File IO",
+        "api_id": "put7-uu67"
+      },
+      {
+        "type": "Enterprise Servers",
+        "api_id": "qifb-fcj2"
+      },
+      {
+        "type": "Large Network Equipment",
+        "api_id": "n8cx-m62r"
+      },
+      {
+        "type": "Uninterruptible Power Supplies",
+        "api_id": "ifxy-2uty"
+      }
+    ],
+    "electronics": [
+      {
+        "type": "Audio/Video",
+        "api_id": "ewhi-bvce"
+      },
+      {
+        "type": "Telephones",
+        "api_id": "bpzy-9tg8"
+      },
+      {
+        "type": "Televisions",
+        "api_id": "pd96-rr3d"
+      }
+    ],
+    "heating_and_cooling": [
+      {
+        "type": "Boilers",
+        "api_id": "6rww-hpns"
+      },
+      {
+        "type": "Central and Mini-Split Air Conditioners",
+        "api_id": "s4ew-vcih"
+      },
+      {
+        "type": "Commercial Boilers",
+        "api_id": "3393-mxju"
+      },
+      {
+        "type": "Furnaces",
+        "api_id": "i97v-e8au"
+      },
+      {
+        "type": "Geothermal Heat Pumps",
+        "api_id": "acvd-5wvz"
+      },
+      {
+        "type": "Heat Pumps",
+        "api_id": "w7cv-9xjt"
+      },
+      {
+        "type": "Light Commercial HVAC",
+        "api_id": "e4mh-a2u3"
+      },
+      {
+        "type": "Room Air Conditioners",
+        "api_id": "5xn2-dv4h"
+      },
+      {
+        "type": "Smart Thermostats",
+        "api_id": "7p2p-wkbf"
+      },
+      {
+        "type": "Ventilating Fans",
+        "api_id": "8dv7-nngq"
+      }
+    ],
+    "lighting_and_fans": [
+      {
+        "type": "Ceiling Fans",
+        "api_id": "2te3-nmxp"
+      },
+      {
+        "type": "Light Fixtures",
+        "api_id": "ej6d-wb4c"
+      }
+    ],
+    "office_equipment": [
+      {
+        "type": "Computers",
+        "api_id": "j7nq-iepp"
+      },
+      {
+        "type": "Displays",
+        "api_id": "qbg3-d468"
+      },
+      {
+        "type": "Imaging Equipment",
+        "api_id": "t2v6-g4nf"
+      }
+    ],
+    "other": [
+      {
+        "type": "Electric Vehicle Chargers (AC-Output)",
+        "api_id": "5jwe-c8xm"
+      },
+      {
+        "type": "Electric Vehicle Chargers (DC-Output)",
+        "api_id": "t3a6-mkxz"
+      },
+      {
+        "type": "Lab Grade Refrigerators and Freezers",
+        "api_id": "g242-ysjw"
+      },
+      {
+        "type": "Pool Pumps",
+        "api_id": "m8cf-pkii"
+      },
+      {
+        "type": "Vending Machines",
+        "api_id": "j624-u8ux"
+      },
+      {
+        "type": "Water Coolers",
+        "api_id": "qsc8-7f7k"
+      }
+    ],
+    "water_heaters": [
+      {
+        "type": "Commercial Water Heaters",
+        "api_id": "xmq6-bm79"
+      },
+      {
+        "type": "Gas Water Heaters",
+        "api_id": "6sbi-yuk2"
+      },
+      {
+        "type": "Heat Pump Water Heaters",
+        "api_id": "v7jr-74b4"
+      },
+      {
+        "type": "Solar Water Heaters",
+        "api_id": "xs5y-vwyz"
+      }
+    ]
+  }
+  
