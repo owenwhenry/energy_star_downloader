@@ -1,0 +1,6 @@
+__*
+local.settings.json
+Pipfile.lock
+.DS*
+.python*
+Pipfile*
